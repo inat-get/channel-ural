@@ -1,4 +1,4 @@
-name: Send Post
+name: Send Other
 
 on:
   schedule:
