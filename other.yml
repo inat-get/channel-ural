@@ -1,0 +1,46 @@
+
+retries: 10
+pool_file: 'data/other_pool.json'
+sent_file: 'data/other_sent.json'
+lock_file: 'data/other.lock'
+
+log_level: debug
+
+base_query:
+  project_id: priroda-urala
+  locale: ru
+  popular: true
+  photo_license: 'cc-by,cc-by-nc,cc-by-nd,cc-by-sa,cc-by-nc-nd,cc-by-nc-sa,cc0'
+  quality_grade: research
+  without_taxon_id: '3,47120,47126'
+  
+days_back: 360
+
+
+chat_id: '@urals_nature'
+
+places:
+  regions:
+    - place_ids: [ 139490 ]
+      link: https://www.inaturalist.org/places/139490
+      text: Свердловская область
+    - place_ids: [ 139365 ]
+      link: https://www.inaturalist.org/places/139365
+      text: Республика Башкортостан
+    - place_ids: [ 139506 ]
+      link: https://www.inaturalist.org/places/139506
+      text: Челябинская область
+    - place_ids: [ 139361 ]
+      link: https://www.inaturalist.org/places/139361
+      text: Пермский край
+    - place_ids: [ 139358 ]
+      link: https://www.inaturalist.org/places/139358
+      text: Оренбургская область
+    - place_ids: [ 12867 ]
+      link: https://www.inaturalist.org/places/12867
+      text: Ханты-Мансийский автономный округ
+    - place_ids: [ 11809 ]
+      link: https://www.inaturalist.org/places/11809
+      text: Республика Коми
+
+
