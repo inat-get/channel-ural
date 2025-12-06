@@ -42,5 +42,7 @@ places:
     - place_ids: [ 11809 ]
       link: https://www.inaturalist.org/places/11809
       text: Республика Коми
-
+    - place_ids: [ 13219 ]
+      link: https://www.inaturalist.org/places/13219
+      text: Ямало-Ненецкий автономный округ
 
