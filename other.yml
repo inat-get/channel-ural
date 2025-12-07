@@ -14,7 +14,7 @@ base_query:
   quality_grade: research
   without_taxon_id: '3,47120,47126'
   
-days_back: 360
+days_back: 30
 
 
 chat_id: '@urals_nature'
