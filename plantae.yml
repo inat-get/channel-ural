@@ -14,7 +14,7 @@ base_query:
   quality_grade: research
   taxon_id: 47126
   
-days_back: 180
+days_back: 30
 
 
 chat_id: '@urals_nature'
