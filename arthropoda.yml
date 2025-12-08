@@ -19,30 +19,6 @@ days_back: 30
 
 chat_id: '@urals_nature'
 
-places:
-  regions:
-    - place_ids: [ 139490 ]
-      link: https://www.inaturalist.org/places/139490
-      text: Свердловская область
-    - place_ids: [ 139365 ]
-      link: https://www.inaturalist.org/places/139365
-      text: Республика Башкортостан
-    - place_ids: [ 139506 ]
-      link: https://www.inaturalist.org/places/139506
-      text: Челябинская область
-    - place_ids: [ 139361 ]
-      link: https://www.inaturalist.org/places/139361
-      text: Пермский край
-    - place_ids: [ 139358 ]
-      link: https://www.inaturalist.org/places/139358
-      text: Оренбургская область
-    - place_ids: [ 12867 ]
-      link: https://www.inaturalist.org/places/12867
-      text: Ханты-Мансийский автономный округ
-    - place_ids: [ 11809 ]
-      link: https://www.inaturalist.org/places/11809
-      text: Республика Коми
-    - place_ids: [ 13219 ]
-      link: https://www.inaturalist.org/places/13219
-      text: Ямало-Ненецкий автономный округ
+places: places.yml
 
+template: message.erb
