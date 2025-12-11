@@ -18,6 +18,8 @@ log_level: info
 days_back:
   fresh: 30
 
+unique_taxon: strict
+
 tg_bot:
   chat_id: '@urals_nature'
   template: message.erb
