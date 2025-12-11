@@ -1,10 +1,11 @@
+data_files:
+  pool: 'data/other_pool.json'
+  sent: 'data/other_sent.json'
 
-retries: 10
-pool_file: 'data/other_pool.json'
-sent_file: 'data/other_sent.json'
-lock_file: 'data/other.lock'
+lock_file:
+  path: 'data/other.lock'
 
-log_level: debug
+log_level: info
 
 base_query:
   project_id: priroda-urala
@@ -14,10 +15,11 @@ base_query:
   quality_grade: research
   without_taxon_id: '3,47120,47126'
   
-days_back: 30
+days_back:
+  fresh: 30
 
-
-chat_id: '@urals_nature'
+tg_bot:
+  chat_id: '@urals_nature'
 
 places: places.yml
 
