@@ -20,7 +20,7 @@ days_back:
 
 tg_bot:
   chat_id: '@urals_nature'
+  template: message.erb
 
 places: places.yml
 
-template: message.erb
