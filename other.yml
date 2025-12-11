@@ -6,13 +6,6 @@ base_query:
   quality_grade: research
   without_taxon_id: '3,47120,47126'
   
-data_files:
-  pool: 'data/other_pool.json'
-  sent: 'data/other_sent.json'
-
-lock_file:
-  path: 'data/other.lock'
-
 log_level: info
 
 days_back:
