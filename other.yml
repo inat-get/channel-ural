@@ -1,3 +1,11 @@
+base_query:
+  project_id: priroda-urala
+  locale: ru
+  popular: true
+  photo_license: 'cc-by,cc-by-nc,cc-by-nd,cc-by-sa,cc-by-nc-nd,cc-by-nc-sa,cc0'
+  quality_grade: research
+  without_taxon_id: '3,47120,47126'
+  
 data_files:
   pool: 'data/other_pool.json'
   sent: 'data/other_sent.json'
@@ -7,14 +15,6 @@ lock_file:
 
 log_level: info
 
-base_query:
-  project_id: priroda-urala
-  locale: ru
-  popular: true
-  photo_license: 'cc-by,cc-by-nc,cc-by-nd,cc-by-sa,cc-by-nc-nd,cc-by-nc-sa,cc0'
-  quality_grade: research
-  without_taxon_id: '3,47120,47126'
-  
 days_back:
   fresh: 30
 
