@@ -11,6 +11,7 @@ log_level: info
 days_back:
   fresh: 30
   pool: 180
+  used: 240
 
 unique_taxon: strict
 
