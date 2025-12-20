@@ -34,11 +34,6 @@
     "faves_count": 1,
     "taxon_id": 768177
   },
-  "80cbd1e3-ebbf-42ab-896e-93eab7815ce6": {
-    "created_at": "2025-12-07",
-    "faves_count": 1,
-    "taxon_id": 950591
-  },
   "35ab3186-e6cb-4e9b-8b87-6fc618efce36": {
     "created_at": "2025-12-06",
     "faves_count": 1,
@@ -313,11 +308,6 @@
     "created_at": "2025-07-16",
     "faves_count": 1,
     "taxon_id": 133487
-  },
-  "c91cc186-c8ef-458a-ab64-7e746b803987": {
-    "created_at": "2025-07-09",
-    "faves_count": 1,
-    "taxon_id": 950591
   },
   "86d9fa93-debd-4d0c-81ad-3f91f4fa98e5": {
     "created_at": "2025-07-09",
