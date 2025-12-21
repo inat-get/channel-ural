@@ -124,11 +124,6 @@
     "faves_count": 1,
     "taxon_id": 3048
   },
-  "5123316b-a214-4cf0-a581-d773f74ab5e2": {
-    "created_at": "2025-12-06",
-    "faves_count": 1,
-    "taxon_id": 515483
-  },
   "93a0877c-71a1-43b6-9fa8-739e7f39a876": {
     "created_at": "2025-12-06",
     "faves_count": 1,
@@ -904,11 +899,6 @@
     "faves_count": 1,
     "taxon_id": 18448
   },
-  "192c5605-e8ad-4863-8a93-ddb089d3f2cb": {
-    "created_at": "2025-06-23",
-    "faves_count": 1,
-    "taxon_id": 64705
-  },
   "10921ddb-248e-44b6-a879-f285b47f5ced": {
     "created_at": "2025-12-11",
     "faves_count": 1,
@@ -1136,6 +1126,56 @@
   },
   "2f22b6d3-921c-4dcb-a034-9791da250231": {
     "created_at": "2025-12-15",
+    "faves_count": 1,
+    "taxon_id": 7004
+  },
+  "a83302ce-8cf4-45e8-b1b5-542a1e7d44c1": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 10070
+  },
+  "f1e50182-d9e0-4eb3-9013-1e50a53c2367": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 10069
+  },
+  "cf444aa1-4433-4f90-bf9c-9b3c27f2873d": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 203153
+  },
+  "b3c9635e-67ba-40d7-b874-a0583c47bfea": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 144849
+  },
+  "0ea27d7d-8c95-4344-9649-909a91ae5929": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 144812
+  },
+  "1a24b02c-cc4c-43b6-9b63-4558c606f3e9": {
+    "created_at": "2025-12-20",
+    "faves_count": 2,
+    "taxon_id": 9462
+  },
+  "e69ba5f9-cae3-43a7-b274-654c25b47bb5": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 792977
+  },
+  "481155a4-b784-4f9a-959a-dd73ae82a05b": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 8010
+  },
+  "7712e47a-e2f9-466e-bda7-5f29c05255c0": {
+    "created_at": "2025-12-20",
+    "faves_count": 1,
+    "taxon_id": 6930
+  },
+  "803d0ca5-5634-4504-826e-cd367906e65b": {
+    "created_at": "2025-12-20",
     "faves_count": 1,
     "taxon_id": 7004
   }
