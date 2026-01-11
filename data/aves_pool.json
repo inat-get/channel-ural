@@ -179,11 +179,6 @@
     "faves_count": 1,
     "taxon_id": 7647
   },
-  "8fad9716-8bbe-46b7-afd2-30ba261db37f": {
-    "created_at": "2025-11-16",
-    "faves_count": 1,
-    "taxon_id": 5106
-  },
   "a6b3e372-4fcc-400d-964d-75b5abd0eb70": {
     "created_at": "2025-11-16",
     "faves_count": 1,
@@ -559,11 +554,6 @@
     "faves_count": 1,
     "taxon_id": 6638
   },
-  "3d1572ba-211e-4880-8f15-755843f9a3b0": {
-    "created_at": "2025-08-04",
-    "faves_count": 1,
-    "taxon_id": 5106
-  },
   "2ade8663-cb23-48b7-881b-e9ff2e984fdc": {
     "created_at": "2025-08-02",
     "faves_count": 1,
@@ -623,26 +613,6 @@
     "created_at": "2025-07-15",
     "faves_count": 1,
     "taxon_id": 1907
-  },
-  "39652692-a7aa-402b-bf92-35d8d44350fb": {
-    "created_at": "2025-07-14",
-    "faves_count": 1,
-    "taxon_id": 12822
-  },
-  "804266b1-96ab-47d7-8e57-5344d45fc4ef": {
-    "created_at": "2025-07-14",
-    "faves_count": 1,
-    "taxon_id": 13113
-  },
-  "296d597d-e3ce-40ff-bd73-4601319721ce": {
-    "created_at": "2025-07-14",
-    "faves_count": 1,
-    "taxon_id": 20359
-  },
-  "bb715db0-bdfb-4d5a-938a-d1c18c674751": {
-    "created_at": "2025-07-14",
-    "faves_count": 1,
-    "taxon_id": 558596
   },
   "10921ddb-248e-44b6-a879-f285b47f5ced": {
     "created_at": "2025-12-11",
@@ -1118,5 +1088,30 @@
     "created_at": "2026-01-09",
     "faves_count": 1,
     "taxon_id": 145086
+  },
+  "aa13a7f1-3209-41fd-aeaa-566e070d9856": {
+    "created_at": "2026-01-11",
+    "faves_count": 1,
+    "taxon_id": 19910
+  },
+  "bc61a6d0-d279-4a5b-b9f9-7de769e5ea00": {
+    "created_at": "2026-01-10",
+    "faves_count": 1,
+    "taxon_id": 145300
+  },
+  "540f4226-d81b-4877-9a48-b2e5c8bb7330": {
+    "created_at": "2026-01-10",
+    "faves_count": 1,
+    "taxon_id": 18301
+  },
+  "4f6c02fe-2626-436b-b1d4-465111c9d1d5": {
+    "created_at": "2026-01-10",
+    "faves_count": 1,
+    "taxon_id": 19910
+  },
+  "c3fa2f88-3eb3-40e7-98a8-cf88c72ddff4": {
+    "created_at": "2026-01-10",
+    "faves_count": 1,
+    "taxon_id": 12707
   }
 }
