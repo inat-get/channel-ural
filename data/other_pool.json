@@ -88,5 +88,15 @@
     "created_at": "2026-01-18",
     "faves_count": 1,
     "taxon_id": 1098280
+  },
+  "bd39b7fa-f457-4f56-9852-6cb47a1ddf0c": {
+    "created_at": "2026-01-21",
+    "faves_count": 2,
+    "taxon_id": 966787
+  },
+  "65746fad-c995-4e6f-9a92-aa3943165578": {
+    "created_at": "2026-01-21",
+    "faves_count": 1,
+    "taxon_id": 55576
   }
 }
