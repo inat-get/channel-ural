@@ -708,5 +708,15 @@
     "created_at": "2026-02-14",
     "faves_count": 1,
     "taxon_id": 8334
+  },
+  "8f10cdc9-d13d-45b1-afb2-a702b09893e8": {
+    "created_at": "2026-02-22",
+    "faves_count": 2,
+    "taxon_id": 558443
+  },
+  "c31217b3-62f0-4bb7-a419-1c4f71a6bf88": {
+    "created_at": "2026-02-22",
+    "faves_count": 1,
+    "taxon_id": 12971
   }
 }
