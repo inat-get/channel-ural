@@ -403,5 +403,10 @@
     "created_at": "2026-03-20",
     "faves_count": 1,
     "taxon_id": 7004
+  },
+  "0a147648-58b6-4a64-b57c-a14b8ffea5b7": {
+    "created_at": "2026-03-22",
+    "faves_count": 1,
+    "taxon_id": 6916
   }
 }
