@@ -12,7 +12,7 @@ days_back:
   fresh: 30
   pool: 180
   sent: 1000
-  used: 240
+  used: 200
 
 unique_taxon: strict
 
