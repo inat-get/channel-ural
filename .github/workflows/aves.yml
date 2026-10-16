@@ -1,8 +1,8 @@
 name: Send Aves
 
 on:
-  # schedule:
-  #   - cron: "0 11 * * *"
+  schedule:
+    - cron: "46 10 * * *"
   workflow_dispatch:
 
 jobs:

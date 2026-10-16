@@ -1,8 +1,8 @@
 name: Send Arthropoda
 
 on:
-  # schedule:
-  #   - cron: "0 7 * * *"
+  schedule:
+    - cron: "47 6 * * *"
   workflow_dispatch:
 
 jobs:

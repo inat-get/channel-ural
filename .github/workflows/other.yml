@@ -1,8 +1,8 @@
 name: Send Other
 
 on:
-  # schedule:
-  #   - cron: "0 15 * * *"
+  schedule:
+    - cron: "43 14 * * *"
   workflow_dispatch:
 
 jobs:
