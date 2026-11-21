@@ -226,7 +226,17 @@
   },
   "8c0a2c99-5483-4ebb-8c06-58e041cb133f": {
     "created_at": "2026-11-19",
-    "faves_count": 1,
+    "faves_count": 2,
     "taxon_id": 9771
+  },
+  "4d6cd52d-bace-4f1d-933f-036f23b31460": {
+    "created_at": "2026-11-20",
+    "faves_count": 1,
+    "taxon_id": 18301
+  },
+  "85856277-6c4e-410f-bdb8-13f8d012701a": {
+    "created_at": "2026-11-17",
+    "faves_count": 1,
+    "taxon_id": 14824
   }
 }
