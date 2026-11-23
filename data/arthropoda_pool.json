@@ -323,5 +323,15 @@
     "created_at": "2026-08-21",
     "faves_count": 1,
     "taxon_id": 1446650
+  },
+  "7bbc4384-9306-4752-982c-0f392b7ae6fc": {
+    "created_at": "2026-11-23",
+    "faves_count": 1,
+    "taxon_id": 131076
+  },
+  "c228288b-751a-4293-8839-159eaac1fdd4": {
+    "created_at": "2026-11-21",
+    "faves_count": 1,
+    "taxon_id": 787422
   }
 }
